@@ -35,9 +35,9 @@
     "difficulty": "Lätt",
     "category": ["Suckulent", "Gröna växter"],
     "image": [
-      "/images/aloe_vera1.jpg",
-      "/images/aloe_vera2.jpg",
-      "/images/aloe_vera3.jpg"
+      "./images/aloe_vera1.jpg",
+      "./images/aloe_vera2.jpg",
+      "./images/aloe_vera3.jpg"
     ]
   },
   {
@@ -75,7 +75,7 @@
     },
     "difficulty": "Lätt",
     "category": ["Suckulent", "Gröna växter"],
-    "image": ["/images/lip.jpg", "/images/lip1.jpg", "/images/lip2.jpg"]
+    "image": ["./images/lip.jpg", "./images/lip1.jpg", "./images/lip2.jpg"]
   },
   {
     "id": 3,
@@ -112,9 +112,9 @@
     "difficulty": "Lätt",
     "category": "Gröna växter",
     "image": [
-      "/images/ampellilja1.jpg",
-      "/images/ampellilja2.jpg",
-      "/images/ampellilja3.jpg"
+      "./images/ampellilja1.jpg",
+      "./images/ampellilja2.jpg",
+      "./images/ampellilja3.jpg"
     ]
   },
   {
@@ -152,9 +152,9 @@
     "difficulty": "Lätt",
     "category": "Blommande",
     "image": [
-      "/images/begonia.jpg",
-      "/images/begonia2.jpg",
-      "/images/begonia3.jpg"
+      "./images/begonia.jpg",
+      "./images/begonia2.jpg",
+      "./images/begonia3.jpg"
     ]
   },
   {
@@ -191,9 +191,9 @@
     "difficulty": "Lätt",
     "category": "Gröna växter",
     "image": [
-      "/images/elefantora1.jpg",
-      "/images/elefantora2.jpg",
-      "/images/elefantora3.jpg"
+      "./images/elefantora1.jpg",
+      "./images/elefantora2.jpg",
+      "./images/elefantora3.jpg"
     ]
   },
   {
@@ -230,9 +230,9 @@
     "difficulty": "Svår",
     "category": "Gröna växter",
     "image": [
-      "/images/fiolfikus3.jpg",
-      "/images/fiolfikus2.jpg",
-      "/images/fiolfikus.jpg"
+      "./images/fiolfikus3.jpg",
+      "./images/fiolfikus2.jpg",
+      "./images/fiolfikus.jpg"
     ]
   },
   {
@@ -270,9 +270,9 @@
     "difficulty": "Lätt",
     "category": "Blommande",
     "image": [
-      "/images/fredskalla.jpg",
-      "/images/fredskalla1.jpg",
-      "/images/fredskalla2.jpg"
+      "./images/fredskalla.jpg",
+      "./images/fredskalla1.jpg",
+      "./images/fredskalla2.jpg"
     ]
   },
   {
@@ -310,9 +310,9 @@
     "difficulty": "Lätt",
     "category": "Gröna växter",
     "image": [
-      "/images/zamiakalla1.jpg",
-      "/images/zamiakalla2.jpg",
-      "/images/zamiakalla3.jpg"
+      "./images/zamiakalla1.jpg",
+      "./images/zamiakalla2.jpg",
+      "./images/zamiakalla3.jpg"
     ]
   },
   {
@@ -350,9 +350,9 @@
     "difficulty": "Svår",
     "category": "Blommande",
     "image": [
-      "/images/hortensia.png",
-      "/images/hortensia2.jpg",
-      "/images/hortensia3.jpg"
+      "./images/hortensia.png",
+      "./images/hortensia2.jpg",
+      "./images/hortensia3.jpg"
     ]
   },
   {
@@ -390,9 +390,9 @@
     "difficulty": "Medel",
     "category": "Blommande",
     "image": [
-      "/images/primula.jpg",
-      "/images/primula2.jpg",
-      "/images/primula3.jpg"
+      "./images/primula.jpg",
+      "./images/primula2.jpg",
+      "./images/primula3.jpg"
     ]
   },
   {
@@ -430,9 +430,9 @@
     "difficulty": "Lätt",
     "category": ["Suckulent", "Gröna växter"],
     "image": [
-      "/images/kaktus.jpg",
-      "/images/kaktus1.jpg",
-      "/images/kaktus2.jpg"
+      "./images/kaktus.jpg",
+      "./images/kaktus1.jpg",
+      "./images/kaktus2.jpg"
     ]
   },
   {
@@ -470,9 +470,9 @@
     "difficulty": "Lätt",
     "category": ["Suckulent", "Gröna växter"],
     "image": [
-      "/images/kaktuso.jpg",
-      "/images/kaktuso1.jpg",
-      "/images/kaktuso2.jpg"
+      "./images/kaktuso.jpg",
+      "./images/kaktuso1.jpg",
+      "./images/kaktuso2.jpg"
     ]
   },
   {
@@ -510,9 +510,9 @@
     "difficulty": "Lätt",
     "category": ["Blommande", "Suckulent"],
     "image": [
-      "/images/kalanchoe.png",
-      "/images/kalanchoe2.jpg",
-      "/images/kalanchoe3.jpg"
+      "./images/kalanchoe.png",
+      "./images/kalanchoe2.jpg",
+      "./images/kalanchoe3.jpg"
     ]
   },
   {
@@ -550,9 +550,9 @@
     "difficulty": "Medel",
     "category": "Blommande",
     "image": [
-      "/images/krukros.jpg",
-      "/images/krukros2.jpg",
-      "/images/krukros3.jpg"
+      "./images/krukros.jpg",
+      "./images/krukros2.jpg",
+      "./images/krukros3.jpg"
     ]
   },
   {
@@ -590,9 +590,9 @@
     "difficulty": "Lätt",
     "category": "Gröna växter",
     "image": [
-      "/images/monstera.jpg",
-      "/images/monstera2.jpg",
-      "/images/monstera3.jpg"
+      "./images/monstera.jpg",
+      "./images/monstera2.jpg",
+      "./images/monstera3.jpg"
     ]
   },
   {
@@ -630,9 +630,9 @@
     "difficulty": "Lätt",
     "category": "Gröna växter",
     "image": [
-      "/images/murgrona.jpg",
-      "/images/murgrona2.jpg",
-      "/images/murgrona3.jpg"
+      "./images/murgrona.jpg",
+      "./images/murgrona2.jpg",
+      "./images/murgrona3.jpg"
     ]
   },
   {
@@ -670,9 +670,9 @@
     "difficulty": "Medel",
     "category": "Blommande",
     "image": [
-      "/images/orkide.jpg",
-      "/images/orkide2.jpg",
-      "/images/orkide3.jpg"
+      "./images/orkide.jpg",
+      "./images/orkide2.jpg",
+      "./images/orkide3.jpg"
     ]
   },
   {
@@ -710,9 +710,9 @@
     "difficulty": "Lätt",
     "category": ["Suckulent", "Gröna växter"],
     "image": [
-      "/images/paradis.jpg",
-      "/images/paradis1.jpg",
-      "/images/paradis2.jpg"
+      "./images/paradis.jpg",
+      "./images/paradis1.jpg",
+      "./images/paradis2.jpg"
     ]
   },
   {
@@ -750,9 +750,9 @@
     "difficulty": "Lätt",
     "category": "Blommande",
     "image": [
-      "/images/pelargon.jpg",
-      "/images/pelargon2.jpg",
-      "/images/pelargon3.jpg"
+      "./images/pelargon.jpg",
+      "./images/pelargon2.jpg",
+      "./images/pelargon3.jpg"
     ]
   },
   {
@@ -791,9 +791,9 @@
     "difficulty": "Lätt",
     "category": "Gröna växter",
     "image": [
-      "/images/porslinsblomma.jpg",
-      "/images/porslinsblomma2.jpg",
-      "/images/porslinsblomma3.jpg"
+      "./images/porslinsblomma.jpg",
+      "./images/porslinsblomma2.jpg",
+      "./images/porslinsblomma3.jpg"
     ]
   },
   {
@@ -831,7 +831,7 @@
     },
     "difficulty": "Svår",
     "category": "Blommande",
-    "image": ["/images/rosenskarm.png"]
+    "image": ["./images/rosenskarm.png"]
   },
   {
     "id": 23,
@@ -868,9 +868,9 @@
     "difficulty": "Lätt",
     "category": "Blommande",
     "image": [
-      "/images/rosenkalla1.jpg",
-      "/images/rosenkalla2.jpg",
-      "/images/rosenkalla3.jpg"
+      "./images/rosenkalla1.jpg",
+      "./images/rosenkalla2.jpg",
+      "./images/rosenkalla3.jpg"
     ]
   },
 
@@ -909,9 +909,9 @@
     "difficulty": "Lätt",
     "category": "Gröna växter",
     "image": [
-      "/images/svärmorstunga.jpg",
-      "/images/svärmorstunga1.jpg",
-      "/images/svärmorstunga2.jpg"
+      "./images/svärmorstunga.jpg",
+      "./images/svärmorstunga1.jpg",
+      "./images/svärmorstunga2.jpg"
     ]
   },
 
@@ -951,9 +951,9 @@
     "difficulty": "Lätt",
     "category": "Gröna växter",
     "image": [
-      "/images/guldpalm.png",
-      "/images/guldpalm2.jpg",
-      "/images/guldpalm3.jpg"
+      "./images/guldpalm.png",
+      "./images/guldpalm2.jpg",
+      "./images/guldpalm3.jpg"
     ]
   },
 
@@ -993,7 +993,11 @@
 
     "difficulty": "Lätt",
     "category": "Örter",
-    "image": ["/images/basil.jpg", "/images/basil1.jpg", "/images/basil2.jpg"]
+    "image": [
+      "./images/basil.jpg",
+      "./images/basil1.jpg",
+      "./images/basil2.jpg"
+    ]
   },
 
   {
@@ -1032,7 +1036,11 @@
 
     "difficulty": "Lätt",
     "category": "Örter",
-    "image": ["/images/thyme.jpg", "/images/thyme1.jpg", "/images/thyme2.jpg"]
+    "image": [
+      "./images/thyme.jpg",
+      "./images/thyme1.jpg",
+      "./images/thyme2.jpg"
+    ]
   },
 
   {
@@ -1072,9 +1080,9 @@
     "difficulty": "Lätt",
     "category": "Örter",
     "image": [
-      "/images/mentha.jpg",
-      "/images/mentha1.jpg",
-      "/images/mentha2.jpg"
+      "./images/mentha.jpg",
+      "./images/mentha1.jpg",
+      "./images/mentha2.jpg"
     ]
   },
 
@@ -1115,9 +1123,9 @@
     "difficulty": "Lätt",
     "category": "Örter",
     "image": [
-      "/images/rosmarin.jpg",
-      "/images/rosmarin1.jpg",
-      "/images/rosmarin2.jpg"
+      "./images/rosmarin.jpg",
+      "./images/rosmarin1.jpg",
+      "./images/rosmarin2.jpg"
     ]
   },
   {
@@ -1157,9 +1165,9 @@
     "difficulty": "Lätt",
     "category": "Örter",
     "image": [
-      "/images/persilja.jpg",
-      "/images/persilja1.jpg",
-      "/images/persilja2.jpg"
+      "./images/persilja.jpg",
+      "./images/persilja1.jpg",
+      "./images/persilja2.jpg"
     ]
   },
 
@@ -1199,7 +1207,7 @@
 
     "difficulty": "Lätt",
     "category": "Örter",
-    "image": ["/images/dill.jpg", "/images/dill1.jpg", "/images/dill2.jpg"]
+    "image": ["./images/dill.jpg", ".images/dill1.jpg", "./images/dill2.jpg"]
   },
 
   {
@@ -1239,9 +1247,9 @@
     "difficulty": "Lätt",
     "category": "Örter",
     "image": [
-      "/images/citronmeliss.jpg",
-      "/images/citronmeliss1.jpg",
-      "/images/citronmeliss2.jpg"
+      "./images/citronmeliss.jpg",
+      "./images/citronmeliss1.jpg",
+      "./images/citronmeliss2.jpg"
     ]
   },
 
@@ -1282,9 +1290,9 @@
     "difficulty": "Lätt",
     "category": "Örter",
     "image": [
-      "/images/oregano.jpg",
-      "/images/oregano1.jpg",
-      "/images/oregano2.jpg"
+      "./images/oregano.jpg",
+      "./images/oregano1.jpg",
+      "./images/oregano2.jpg"
     ]
   },
 
@@ -1324,7 +1332,7 @@
 
     "difficulty": "Lätt",
     "category": "Örter",
-    "image": ["/images/sage.jpg", "/images/sage1.jpg", "/images/sage2.jpg"]
+    "image": ["./images/sage.jpg", "./images/sage1.jpg", "./images/sage2.jpg"]
   },
 
   {
@@ -1364,9 +1372,9 @@
     "difficulty": "Lätt",
     "category": "Örter",
     "image": [
-      "/images/dragon.jpg",
-      "/images/dragon1.jpg",
-      "/images/dragon2.jpg"
+      "./images/dragon.jpg",
+      "./images/dragon1.jpg",
+      "./images/dragon2.jpg"
     ]
   },
 
@@ -1407,9 +1415,9 @@
     "difficulty": "Lätt",
     "category": "Örter",
     "image": [
-      "/images/koriander.jpg",
-      "/images/koriander1.jpg",
-      "/images/koriander2.jpg"
+      "./images/koriander.jpg",
+      "./images/koriander1.jpg",
+      "./images/koriander2.jpg"
     ]
   },
   {
@@ -1449,9 +1457,9 @@
     "difficulty": "Lätt",
     "category": "Örter",
     "image": [
-      "/images/gräslök.jpg",
-      "/images/gräslök1.jpg",
-      "/images/gräslök2.jpg"
+      "./images/gräslök.jpg",
+      "./images/gräslök1.jpg",
+      "./images/gräslök2.jpg"
     ]
   }
 ]
